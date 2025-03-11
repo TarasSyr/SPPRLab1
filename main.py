@@ -10,7 +10,7 @@ class WSMApp(QMainWindow):
 
     def initUI(self):
         self.setWindowTitle('WSM Decision Support System')
-        self.setGeometry(100, 100, 900, 700)
+        self.setGeometry(100, 100, 600, 600)
         self.center()
 
         # Головний віджет та макет
